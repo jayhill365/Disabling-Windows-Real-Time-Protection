@@ -35,3 +35,9 @@ Note: Please use at your own caution, if neccessary and you have physical access
 https://pureinfotech.com/reset-windows-11-boot/
 
 In my case for some reason windows security settings were whited-out and I wasn't able to access any of the settings, tamper prevention remained on and when I reset my laptop windows defender automatically restarted.
+
+
+Disable Anti-Virus
+
+Go to: Windows Security → Virus and threat protection → Virus and threat protection settings (otherwise the task won't work: tamper protection blocks apps from changing real-time protection settings, including PowerShell).
+Manually disable real-time protection from Windows Security 
