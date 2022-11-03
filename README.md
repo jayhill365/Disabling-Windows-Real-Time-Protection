@@ -41,3 +41,7 @@ Disable Anti-Virus
 
 Go to: Windows Security → Virus and threat protection → Virus and threat protection settings (otherwise the task won't work: tamper protection blocks apps from changing real-time protection settings, including PowerShell).
 Manually disable real-time protection from Windows Security 
+
+Also referenced this as well to disable protections.
+https://www.technipages.com/windows-11-how-to-enable-disable-smartscreen
+
